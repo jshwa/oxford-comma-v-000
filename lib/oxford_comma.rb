@@ -7,7 +7,7 @@ case array.length
   else
     count = 0
     new_string = ""
-    while count < array.length - 2
+    while count < array.length - 1
       new_string << "#{array[count]}, "
       count += 1
     end
