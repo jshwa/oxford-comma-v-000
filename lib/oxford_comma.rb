@@ -13,5 +13,5 @@ case array.length
     end
     new_string << "and #{array[array.length-1]}"
     new_string
-end
+  end
 end
