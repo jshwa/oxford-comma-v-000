@@ -15,3 +15,4 @@ case array.length
     new_string
   end
 end
+end
