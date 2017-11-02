@@ -9,7 +9,7 @@ case array.length
     new_string = ""
     while count < array.length - 2
       new_string << "#{array[count]}, "
-      count ++
+      count += 1
     end
     new_string << "and #{array[array.length-1]}"
     new_string
